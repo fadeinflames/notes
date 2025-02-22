@@ -55,6 +55,7 @@ share: true
 - **Курсы и книги, которые можно посмотреть/почитать:**
   - **"Docker Mastery"** (Udemy, Bret Fisher).
   - **"Certified Kubernetes Administrator (CKA)"** (KodeKloud).
+  - **"Вечерняя школа по K8S"** [Youtube-playlist](https://www.youtube.com/watch?v=Mw_rEH2pElw&list=PL8D2P0ruohOBSA_CDqJLflJ8FLJNe26K-_)
 
 ---
 
