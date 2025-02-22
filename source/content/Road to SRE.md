@@ -22,7 +22,7 @@ share: true
   - **Базы данных:** Основы SQL/NoSQL, репликация, шардинг.
 - **Чем можно попрактиковаться:**
   - Настройка серверов на Ubuntu/CentOS.
-  - Работа с сетевыми утилитами:` netstat, tcpdump, curl, iptables.`
+  - Работа с сетевыми утилитами: `netstat, tcpdump, curl, iptables.`
   - Работа с логами, процессами, правами.
 - **Курсы, которые можно посмотреть:**
   - **"Linux Foundation: Introduction to Linux"** (edX).
