@@ -1,7 +1,3 @@
 ---
-title: My GitHub Pages Notebook!
+title: My notes from obsidian
 ---
-
-Hello world!
-
-Write some words here!
