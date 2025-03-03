@@ -22,7 +22,7 @@ share: true
   - **Базы данных:** Основы SQL/NoSQL, репликация, шардинг.
 - **Чем можно попрактиковаться:**
   - Настройка серверов на Ubuntu/CentOS.
-  - Работа с сетевыми утилитами: `netstat, tcpdump, curl, iptables.`
+  - Работа с сетевыми утилитами:` netstat, tcpdump, curl, iptables.`
   - Работа с логами, процессами, правами.
 - **Курсы, которые можно посмотреть:**
   - **"Linux Foundation: Introduction to Linux"** (edX).
@@ -55,7 +55,6 @@ share: true
 - **Курсы и книги, которые можно посмотреть/почитать:**
   - **"Docker Mastery"** (Udemy, Bret Fisher).
   - **"Certified Kubernetes Administrator (CKA)"** (KodeKloud).
-  - **"Вечерняя школа по K8S"** [Youtube-playlist](https://www.youtube.com/watch?v=Mw_rEH2pElw&list=PL8D2P0ruohOBSA_CDqJLflJ8FLJNe26K-_)
 
 ---
 
