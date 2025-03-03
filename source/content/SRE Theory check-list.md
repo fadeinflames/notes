@@ -34,24 +34,25 @@ share: true
 #### **4. Вопросы для самопроверки**  
 1.**«Чем отличается SLA от SLO?»**    
 <details>  
-      <summary>Ответ</summary>  
+ <summary>Ответ</summary>  
 SLA — договор с клиентом, SLO — внутренняя цель.    
-    </details>  
+</details>  
 2.**«Как Error Budget влияет на процесс релизов?»**  
 <details>  
-      <summary>Ответ</summary>  
+<summary>Ответ</summary>  
 Если бюджет исчерпан, релизы приостанавливаются до восстановления надежности.    
-    </details>  
+</details>  
 3.**«Почему Toil — это плохо?»**  
-   <details>  
-      <summary>Ответ</summary>  
+<details>  
+<summary>Ответ</summary>  
 Он отвлекает команду от инженерных задач, увеличивает риск ошибок.    
-    </details>  
+</details>  
 4.**«Какие элементы должны быть в постмортеме?»**    
 <details>  
-      <summary>Ответ</summary>  
+<summary>Ответ</summary>  
 Timeline, root cause, impact, action items, ответственные.  
-    </details>    
+</details>    
+  
 ---  
 #### **5. Критерии успеха**  
 - Объяснить SLA/SLO/SLI на примере сервиса (например, YouTube или банковского приложения).    
