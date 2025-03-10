@@ -1,6 +1,8 @@
 ---
-title: My notes from obsidian
+title: My publushed notes from obsidian
 ---
+Всем привет! Меня зовут Максим, и я SRE в Dodo Engineering.
+Здесь я публикую свои заметки из Obsidian, чтобы они были в свободном доступе для всех желающих.
 
 # Навигация
 - Обучающие материалы
