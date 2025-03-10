@@ -1,5 +1,5 @@
 ---
-title: My publushed notes from obsidian
+title: My published notes from obsidian
 ---
 Всем привет! Меня зовут Максим, и я SRE в Dodo Engineering. Лидирую направление observability, стараюсь делать наши инструменты лучше и прозрачнее. Преподаю на курсах Slurm, а также состою в программных комитетах таких прекрасных конференций, как DevOops и PerfConf.
 
